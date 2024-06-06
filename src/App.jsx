@@ -1,9 +1,14 @@
 import './App.css'
+import Header from './components/Header'
+import Nav from './components/Nav'
+import Main from './components/Main'
 
 function App() {
   return (
     <>
-    <h1>Layouts de paginas</h1>
+    <Header></Header>
+    <Nav></Nav>
+    <Main></Main>
     </>
   )
 }

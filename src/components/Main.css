@@ -1,0 +1,7 @@
+.mainPrincipal {
+    display: flex;
+    margin: 3px;
+    background: #010c07;
+    flex: 20 1 500px;
+    height: calc(100vh - 300px);
+}
