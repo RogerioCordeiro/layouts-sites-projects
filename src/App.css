@@ -1,24 +1,3 @@
 :root {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
-nav {
-    display: flex;
-    margin: 3px;
-    color:  #202020;
-    height: 100px;
-    justify-content: center;
-    align-items: center;
-    flex: 1 1 100vw;
-}
-
-nav a {
-    text-decoration: none;
-    color: inherit;
-    margin: 5%;
-    font-size: 15pt;
-}
-
-nav a:hover {
-    color: rgb(0, 156, 255);
-}
