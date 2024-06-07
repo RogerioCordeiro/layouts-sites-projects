@@ -1,0 +1,8 @@
+aside {
+    display: flex;
+    margin: 3px;
+    flex: 1 1 200px;
+    justify-content: center;
+    border: 2px solid #000;
+    
+}
